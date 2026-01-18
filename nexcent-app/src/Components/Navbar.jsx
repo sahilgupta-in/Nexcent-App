@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import logo from '../assets/logotop.svg'
-import Right from '../assets/right.svg'
+import Right from '../assets/Right.svg'
 
 const Navbar = () => {
 
