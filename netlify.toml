@@ -1,0 +1,4 @@
+[build]
+  base = "nexcent-app"
+  publish = "nexcent-app/dist"
+  command = "npm ci && npm run build"
